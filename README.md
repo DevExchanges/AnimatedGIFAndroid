@@ -1,2 +1,2 @@
 # AnimatedGIFAndroid
-Displaying GIF image in Android, see tut post at:
+Displaying GIF image in Android by 3 solutions: Movie class, GifDecoder and WebView.
