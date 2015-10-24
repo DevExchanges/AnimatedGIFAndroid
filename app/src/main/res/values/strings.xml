@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animated GIFs Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="web">Animated GIF use WebView</string>
+    <string name="gif_decoder">Animated GIF use ImageView</string>
+    <string name="movie">Animated GIF use android.gradphics.Movie</string>
+</resources>
